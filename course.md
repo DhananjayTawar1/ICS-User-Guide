@@ -74,9 +74,6 @@ It refreshes the current grid.
  **e.Mark Absent:**
 	</br>It displays dialog "Are you sure" press "Ok" to proceed and "Cancel" to cancel, we have to select the Individual and event, otherwise it will display dialog "Please select Individual and event."
 
-**f. ByIcsID:**
-</br> Bulk upload
-	
 **B.For Master Course:**
 
 
