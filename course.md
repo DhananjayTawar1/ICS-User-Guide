@@ -89,8 +89,9 @@ Here only Admin can create one or more batch course/general course related to a 
 
 ***k. Remarks***
 </br>	observation.
+
 ***l.	 Status***
-Active or not.
+</br>Active or not.
  Payment and export operation can be done here. This model consist of several attributes, explained below:
 
  If individual has not registered yet, then add that individual by clicking add('+') button(bottom of the individual course list) and giving the individual details in the dailog. Admin can also delete and change individual course details except changing ICS ID  
